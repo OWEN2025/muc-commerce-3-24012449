@@ -1,0 +1,6 @@
+﻿chart_id,file_name,business_question,chart_type,key_finding,limitation
+01,01_category_bar.png,不同租期组的流失率差异？,bar,7-12个月组流失率最高（38%），长期用户（24个月以上）最低（12%）,未控制其他因素，不能解释因果关系
+02,02_behavior_scatter.png,订单数与返现金额的关系及流失状态差异,scatter,正相关，流失用户多集中在低订单低返现区域,相关不等于因果，可能存在混杂变量
+03,03_ordered_line.png,租期阶段流失率变化趋势,line,流失率呈倒U型，峰值在7-12个月,非纵向追踪，为不同阶段用户截面比较
+04,04_composition_chart.png,用户在各租期组的分布构成,pie_or_bar,7-12个月组占比最大（27%），新用户和长期用户占比较小,反映当前静态构成，不体现动态变化
+05,day06_visualization_summary.png,整体概览,dashboard,综合展示流失率差异、行为模式、趋势和构成，呈现核心洞察,仅为概览，具体细节需参阅单图分析
